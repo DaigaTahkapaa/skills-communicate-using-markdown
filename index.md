@@ -19,3 +19,7 @@ def caesar_encrypt(text, shift):
             encrypted_text += char
     return encrypted_text
 ```
+- [x] Add header
+- [x] Add image
+- [x] Add code sample
+- [ ] Add list
